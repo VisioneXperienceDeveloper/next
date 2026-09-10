@@ -1,0 +1,586 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "Next": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Next"
+          }
+        }
+      }
+    },
+    "One step toward your vision.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "One step toward your vision."
+          }
+        }
+      }
+    },
+    "Get Started": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Get Started"
+          }
+        }
+      }
+    },
+    "What are you moving toward?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What are you moving toward?"
+          }
+        }
+      }
+    },
+    "Write the future you want to move toward.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Write the future you want to move toward."
+          }
+        }
+      }
+    },
+    "Become a software engineer in Australia.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Become a software engineer in Australia."
+          }
+        }
+      }
+    },
+    "Vision": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vision"
+          }
+        }
+      }
+    },
+    "Your vision": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your vision"
+          }
+        }
+      }
+    },
+    "Continue": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continue"
+          }
+        }
+      }
+    },
+    "Next Step": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Next Step"
+          }
+        }
+      }
+    },
+    "Your next step": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your next step"
+          }
+        }
+      }
+    },
+    "What’s your next step?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What’s your next step?"
+          }
+        }
+      }
+    },
+    "Choose one small action that moves you forward.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose one small action that moves you forward."
+          }
+        }
+      }
+    },
+    "Apply for one developer position.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apply for one developer position."
+          }
+        }
+      }
+    },
+    "Start": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start"
+          }
+        }
+      }
+    },
+    "Save": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel"
+          }
+        }
+      }
+    },
+    "Edit Next Step": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edit Next Step"
+          }
+        }
+      }
+    },
+    "Edit Vision": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edit Vision"
+          }
+        }
+      }
+    },
+    "Edit text": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edit text"
+          }
+        }
+      }
+    },
+    "Edit your Vision statement.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edit your Vision statement."
+          }
+        }
+      }
+    },
+    "Add Next Step": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add Next Step"
+          }
+        }
+      }
+    },
+    "Every vision moves forward one step at a time.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Every vision moves forward one step at a time."
+          }
+        }
+      }
+    },
+    "Journey": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Journey"
+          }
+        }
+      }
+    },
+    "Your journey starts here.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your journey starts here."
+          }
+        }
+      }
+    },
+    "Complete your first step and it will appear here.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Complete your first step and it will appear here."
+          }
+        }
+      }
+    },
+    "Couldn’t save": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t save"
+          }
+        }
+      }
+    },
+    "Couldn’t save your vision. Please try again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t save your vision. Please try again."
+          }
+        }
+      }
+    },
+    "Couldn’t save this step. Please try again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t save this step. Please try again."
+          }
+        }
+      }
+    },
+    "You already have a Next Step. Return home to see it.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You already have a Next Step. Return home to see it."
+          }
+        }
+      }
+    },
+    "Your vision is already saved. Return home to continue.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your vision is already saved. Return home to continue."
+          }
+        }
+      }
+    },
+    "OK": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        }
+      }
+    },
+    "Couldn’t open Next": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t open Next"
+          }
+        }
+      }
+    },
+    "Your data hasn’t been changed. Please try again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your data hasn’t been changed. Please try again."
+          }
+        }
+      }
+    },
+    "Try Again": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try Again"
+          }
+        }
+      }
+    },
+    "Opening Next": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opening Next"
+          }
+        }
+      }
+    },
+    "Complete Step": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Complete Step"
+          }
+        }
+      }
+    },
+    "Open your Next Step to complete it or edit its text.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open your Next Step to complete it or edit its text."
+          }
+        }
+      }
+    },
+    "One step forward.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "One step forward."
+          }
+        }
+      }
+    },
+    "Would you like to reflect?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Would you like to reflect?"
+          }
+        }
+      }
+    },
+    "Add Reflection": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add Reflection"
+          }
+        }
+      }
+    },
+    "Reflection": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reflection"
+          }
+        }
+      }
+    },
+    "What did you learn?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What did you learn?"
+          }
+        }
+      }
+    },
+    "Something to take with you.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Something to take with you."
+          }
+        }
+      }
+    },
+    "Skip": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Skip"
+          }
+        }
+      }
+    },
+    "Keep moving.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep moving."
+          }
+        }
+      }
+    },
+    "View journey": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "View journey"
+          }
+        }
+      }
+    },
+    "Close": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close"
+          }
+        }
+      }
+    },
+    "Delete Vision": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete Vision"
+          }
+        }
+      }
+    },
+    "Delete this Vision and its Journey?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete this Vision and its Journey?"
+          }
+        }
+      }
+    },
+    "This removes your Vision, all its Steps, and their Reflections from this app. This cannot be undone.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This removes your Vision, all its Steps, and their Reflections from this app. This cannot be undone."
+          }
+        }
+      }
+    },
+    "Couldn’t save this change. Please try again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t save this change. Please try again."
+          }
+        }
+      }
+    },
+    "About Next": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "About Next"
+          }
+        }
+      }
+    },
+    "Privacy Policy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privacy Policy"
+          }
+        }
+      }
+    },
+    "Support": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Support"
+          }
+        }
+      }
+    },
+    "Email support": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Email support"
+          }
+        }
+      }
+    },
+    "Your Vision, Steps, and Reflections are stored on this device. Next has no account, analytics, or cloud sync. Device backups may contain your data. Delete your Vision to remove its Journey from the app.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your Vision, Steps, and Reflections are stored on this device. Next has no account, analytics, or cloud sync. Device backups may contain your data. Delete your Vision to remove its Journey from the app."
+          }
+        }
+      }
+    },
+    "Made by VXDeveloper": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Made by VXDeveloper"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

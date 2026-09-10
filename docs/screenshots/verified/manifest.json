@@ -1,0 +1,50 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "C03756E0-6F31-4FF8-BE46-D7AFDC1FD440",
+        "deviceName" : "iPhone 17 Pro",
+        "exportedFileName" : "6BC0340C-96B3-4B52-A8F1-CD3F85FC3473.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Vision editor — keyboard and largest Dynamic Type_0_CF5B80CD-6B44-4CDE-9EB5-1470C5EA7FB7.png",
+        "timestamp" : 1788959870.474
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "C03756E0-6F31-4FF8-BE46-D7AFDC1FD440",
+        "deviceName" : "iPhone 17 Pro",
+        "exportedFileName" : "769A8EAF-C792-4B9D-821A-EC8F4ACDE866.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Home — largest Dynamic Type_0_565C8372-2C12-4F99-9200-4B8D607FDC4B.png",
+        "timestamp" : 1788959865.782
+      }
+    ],
+    "testIdentifier" : "FirstFlowTests/testLongTextAtLargestDynamicType()",
+    "testIdentifierURL" : "test://com.apple.xcode/Next/NextUITests/FirstFlowTests/testLongTextAtLargestDynamicType"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "C03756E0-6F31-4FF8-BE46-D7AFDC1FD440",
+        "deviceName" : "iPhone 17 Pro",
+        "exportedFileName" : "FE52E3B2-E820-4543-9C98-275290C200F1.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Home — default type_0_64B568D3-9309-4708-A794-B420621864C8.png",
+        "timestamp" : 1788959886.417
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "C03756E0-6F31-4FF8-BE46-D7AFDC1FD440",
+        "deviceName" : "iPhone 17 Pro",
+        "exportedFileName" : "00AFE895-F216-4986-B44E-8E0599B401D6.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "First Step — keyboard_0_90F3890A-7E62-4FC7-8D41-462D2DB1E9A0.png",
+        "timestamp" : 1788959884.545
+      }
+    ],
+    "testIdentifier" : "FirstFlowTests/testOnboardingAndStepSurviveRelaunch()",
+    "testIdentifierURL" : "test://com.apple.xcode/Next/NextUITests/FirstFlowTests/testOnboardingAndStepSurviveRelaunch"
+  }
+]

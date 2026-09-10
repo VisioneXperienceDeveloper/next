@@ -1,0 +1,16 @@
+Next is a local-first iPhone app for one Vision and one active Next Step. It requires no sign-in, subscription, server, or demo account. The interface is English.
+
+Review flow:
+1. Launch, tap Get Started, enter a Vision, and tap Continue.
+2. Enter one Next Step and tap Start. Home shows it above the Vision.
+3. Quit and reopen the app. The same Step remains on Home.
+4. Tap the Step, then Complete Step.
+5. Choose Add Reflection, enter what you learned, and Save; alternatively choose Skip.
+6. Enter the next Step and tap Continue.
+7. From Home choose View journey. The previous Step is listed by completion date, with its Reflection if provided.
+
+Tap a Vision to edit its text. To edit the current Step, open it and choose Edit text. Delete Vision requires confirmation and removes its Steps and Reflections. No account deletion is needed because there are no accounts.
+
+The info button on Welcome and Home opens About Next, which includes an on-device privacy summary, Privacy Policy, Support, and Email support links. Only external website/email links require connectivity; the core app works offline.
+
+No widgets, reminders, analytics SDKs, purchases, or cloud sync are included in this version.

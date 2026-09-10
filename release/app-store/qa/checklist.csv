@@ -1,0 +1,19 @@
+id,area,scenario,expected,status
+Q01,Onboarding,New install → Vision → first Step,Home immediately shows saved Step,automated
+Q02,Persistence,Terminate and relaunch,Same Vision and Step,automated
+Q03,Completion,Complete → skip → new Step,One active Step and previous Journey entry,automated
+Q04,Reflection,Complete → Reflection → new Step,Reflection remains with completed Step,automated
+Q05,Persistence,Recreate disk container,Vision Steps Reflection preserved,automated
+Q06,Editing,Cancel and save edited Step,Cancel unchanged save persistent,automated
+Q07,Deletion,Cancel deletion then confirm,Cancel keeps data confirm removes graph,automated
+Q08,Journey,Multiple months completion order,Newest completion first active excluded,automated
+Q09,Accessibility,Home and Journey automatic audit,Contrast labels touch targets pass,see verification
+Q10,Accessibility,VoiceOver complete every main task,Logical reading order no inaccessible controls,pending physical device
+Q11,Accessibility,Largest text and long input,Scrollable content reachable primary buttons,automated partial
+Q12,Offline,Airplane mode complete entire loop,All core mutations work without network,pending physical device
+Q13,Upgrade,Install signed update over prior build,Existing store preserved,pending TestFlight
+Q14,Minimum OS,iOS 17 supported iPhone,Full loop and local persistence,pending runtime/device
+Q15,Layout,Small and large iPhone landscape keyboard,No clipped action text,pending manual matrix
+Q16,Motion,Reduce Motion complete Step,State understandable without animation,pending physical device
+Q17,Support,Open policy and support from app,Correct public pages without login,pending public hosting
+Q18,Distribution,Archive validate upload install,Correct signing and production assets,pending Developer Team

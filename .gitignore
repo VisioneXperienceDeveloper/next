@@ -1,0 +1,38 @@
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.xcodebuildmcp/
+
+# Local dependencies and generated caches
+node_modules/
+.hyperframes/
+__pycache__/
+*.py[cod]
+*.log
+*.xcresult/
+*.xcarchive/
+*.ipa
+*.app/
+*.dSYM/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+!.env.sample
+*.p8
+*.p12
+*.pfx
+*.pem
+*.key
+*.mobileprovision
+*.provisionprofile
+.netrc
+.npmrc
+
+# Local release archives, execution evidence, and separate website checkout
+/release/*.zip
+/release/app-store/evidence/
+/release/website-worktree/

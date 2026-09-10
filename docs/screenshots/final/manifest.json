@@ -1,0 +1,50 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "34AAE960-0199-461F-8543-9043AC4C518D",
+        "deviceName" : "iPhone 16e",
+        "exportedFileName" : "E437A3F0-3DA9-4658-87F8-738223F0E75E.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Vision editor — keyboard and largest Dynamic Type_0_835B7CA5-2AFA-4525-8B10-CB4FD4EC5AA4.png",
+        "timestamp" : 1788960138.174
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "34AAE960-0199-461F-8543-9043AC4C518D",
+        "deviceName" : "iPhone 16e",
+        "exportedFileName" : "4C86B50E-BF96-4C10-98DD-4F724BFA4BB4.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Home — largest Dynamic Type_0_832F5D83-269B-4F81-82E2-83626C3ECBDE.png",
+        "timestamp" : 1788960133.624
+      }
+    ],
+    "testIdentifier" : "FirstFlowTests/testLongTextAtLargestDynamicType()",
+    "testIdentifierURL" : "test://com.apple.xcode/Next/NextUITests/FirstFlowTests/testLongTextAtLargestDynamicType"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "34AAE960-0199-461F-8543-9043AC4C518D",
+        "deviceName" : "iPhone 16e",
+        "exportedFileName" : "9FFAABF8-DD06-4DA0-B076-A52BD6DDCC35.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Home — default type_0_DA6FDEF8-4706-4ACD-A3CB-30E6B4A8C1A1.png",
+        "timestamp" : 1788960151.235
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "34AAE960-0199-461F-8543-9043AC4C518D",
+        "deviceName" : "iPhone 16e",
+        "exportedFileName" : "ED40D741-CF5E-4053-88DA-8DDC5A19307E.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "First Step — keyboard_0_16D7E60B-BC43-4B9D-B5AB-1C5A563C6205.png",
+        "timestamp" : 1788960149.455
+      }
+    ],
+    "testIdentifier" : "FirstFlowTests/testOnboardingAndStepSurviveRelaunch()",
+    "testIdentifierURL" : "test://com.apple.xcode/Next/NextUITests/FirstFlowTests/testOnboardingAndStepSurviveRelaunch"
+  }
+]
